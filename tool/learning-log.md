@@ -13,9 +13,10 @@
 
 * I tried adding sprites and changing their positions using coordinates to better understand how objects work in Phaser.
 
-### X/X/XX:
-* Text
-
+### 11/9/26:
+* I learned how to use keyboard inputs in Phaser to move a character around the screen.
+* I tinkered with Phaser's physics system to understand how gravity and collisions work in Javascript.
+* I found out how to create simple animations for sprites. This will eventually help me develop a complete movement system and combat system for my 2D RPG.
 
 <!-- 
 * Links you used today (websites, videos, etc)
